@@ -2,9 +2,6 @@
   "title": "Argo",
   "description": "Argo Demo",
   "details": {
-    "intro": {
-      "courseData": "init.sh"
-    },
     "steps": [
       {
         "title": "Step 1",
